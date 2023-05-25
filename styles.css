@@ -151,6 +151,8 @@ a{
 .left-sidebar{
    flex-basis: 25%;
    align-self: flex-start;
+   position: sticky;
+   top: 73px;
 }
 
 
@@ -281,6 +283,8 @@ a{
 .right-sidebar{
     flex-basis: 25%;
     align-self: flex-start;
+    position: sticky;
+    top: 73px;
 
 }
 
@@ -525,4 +529,69 @@ a{
 .post p{
     font-size: 14px;
     margin-bottom: 15px;
+}
+
+.post-status{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 12px;
+    border-bottom: 1px solid #ccc;
+    padding: 6px;
+
+}
+
+.post-status div{
+    display: flex;
+    align-items: center;
+
+}
+
+.post-status img{
+    width: 15px;
+    margin-right: -5px;
+}
+.liked-user{
+    margin-left: 10px;
+}
+
+.post-activety{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    font-size: 14px;
+    font-weight: 600;
+}
+.post-activety div{
+    display: flex;
+    align-items: center;
+
+}
+
+.post-activty-user-icon{
+    width: 22px;
+    border-radius: 50%;
+
+}
+
+.post-activty-arrow-icon{
+    width:12px;
+    margin-left: 5px;
+}
+
+.post-activity-links img{
+    width: 20px;
+    margin-right: 10px;
+}
+
+.post-activity-links{
+    display: block;
+    align-items: center;
+    justify-content: space-between;
+    background: #f0f2f5;
+    text-align: center;
+    margin: 10px 25px 0;
+
 }
