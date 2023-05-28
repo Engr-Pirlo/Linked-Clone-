@@ -17,5 +17,18 @@ functinally uu lahandona waxa ka mid ha.
 
 <p>Waxan Fila Inaad Waxan Un Ka Fahantay Runtii waa Project Lawaad An Kusameyey html Css javascript Adiga You Can do. </p>
 
+>Wali waxan kawaada shaqo Projeckan waxa ka dhiman Qeebta user Profileka
+
+#Lakin Projectigan Very Huge Waye Runtii :blush
+
+-[x] Header Section
+-[x] navigation bar 
+-[x] lef-sidebar
+-[x] right-sidebar
+-[x] Main-Content
+-[] user-Profile
+-[] footer
+
+-
 
 
