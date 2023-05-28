@@ -21,14 +21,14 @@ functinally uu lahandona waxa ka mid ha.
 
 #Lakin Projectigan Very Huge Waye Runtii :blush
 
--[x] Header Section
--[x] navigation bar 
--[x] lef-sidebar
--[x] right-sidebar
--[x] Main-Content
--[] user-Profile
--[] footer
+- [x] Header Section
+- [x] navigation bar 
+- [x] lef-sidebar
+- [x] right-sidebar
+- [x] Main-Content
+- [ ] user-Profile
+- [ ] footer
 
--
+
 
 
