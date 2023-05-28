@@ -19,7 +19,11 @@ functinally uu lahandona waxa ka mid ha.
 
 >Wali waxan kawaada shaqo Projeckan waxa ka dhiman Qeebta user Profileka
 
-#Lakin Projectigan Very Huge Waye Runtii :joy:
+# Lakin Projectigan Very Huge Waye Runtii :joy:
+
+### Shaqayinka aan hada Qabtay iyo kuwo ii dhaman halkan ka arag :joy:
+
+
 
 - [x] Header Section
 - [x] navigation bar 
