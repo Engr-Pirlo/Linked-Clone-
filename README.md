@@ -19,7 +19,7 @@ functinally uu lahandona waxa ka mid ha.
 
 >Wali waxan kawaada shaqo Projeckan waxa ka dhiman Qeebta user Profileka
 
-#Lakin Projectigan Very Huge Waye Runtii :blush
+#Lakin Projectigan Very Huge Waye Runtii :joy:
 
 - [x] Header Section
 - [x] navigation bar 
