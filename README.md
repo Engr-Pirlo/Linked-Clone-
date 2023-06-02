@@ -38,5 +38,11 @@ functinally uu lahandona waxa ka mid ha.
 >Halkan Waxad Ka arki kartaa user-profile sida uu u egyahay Live Dem-Screent-shot
 ![Screent Shoot](/images/Screents.png)
 
+### hada waxa Harsan oo kali inan Resposive ka dhiga in Lagu so xiro index pagkena
+
+# Now Hada Waa Okay Weyna isku Xiran yihiin Pages hadii an rabo inan Live-Demo u aragto Linkigan Taabo :joy:
+
+![Live Demo](https://linked-clone12.vercel.app/#)
+
 
 
