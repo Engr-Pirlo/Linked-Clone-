@@ -30,9 +30,13 @@ functinally uu lahandona waxa ka mid ha.
 - [x] lef-sidebar
 - [x] right-sidebar
 - [x] Main-Content
-- [ ] user-Profile
-- [ ] footer
+- [x] user-Profile
+- [x] footer
 
+# Finalay Waan dhameyey howsheydi Alxm, Kali Waxaa i harsan inan Responsive ka dhigo insha Allah,
+
+>Halkan Waxad Ka arki kartaa user-profile sida uu u egyahay Live Dem-Screent-shot
+![Screent Shoot](/images/Screents.png)
 
 
 
