@@ -42,7 +42,6 @@ functinally uu lahandona waxa ka mid ha.
 
 # Now Hada Waa Okay Weyna isku Xiran yihiin Pages hadii an rabo inan Live-Demo u aragto Linkigan Taabo :joy:
 
-![Live Demo](https://linked-clone12.vercel.app/#)
-
+! [Live Dem](https://linked-clone12.vercel.app/)
 
 
