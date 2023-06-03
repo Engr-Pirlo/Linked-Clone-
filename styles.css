@@ -686,8 +686,8 @@ a{
 .profile-sidebar{
     flex-basis: 25%;
     align-self: flex-start;
-    position: static;
-    top: 73%;
+    position: sticky;
+    top: 73px;
 }
 
 .profile-container{
@@ -911,4 +911,18 @@ a{
     color: #9a9a9a;
     padding: 10px  0 20px;
     font-size: 13px;
+}
+
+.profile-footer{
+    padding: 0 6% 30px;
+
+}
+
+.profile-footer .sidebar-link-useful{
+    text-align: left;
+    padding: 0;
+}
+
+.profile-footer .copy-right-message{
+    justify-content: flex-start;
 }
